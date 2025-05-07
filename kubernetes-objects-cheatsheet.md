@@ -290,5 +290,5 @@ kubectl apply -f your-file.yaml
 ---
 
 ## ✅ Author
-Prepared by *Your Name* as part of Kubernetes learning and DevOps portfolio project.
+Prepared by *Santosh* as part of Kubernetes learning and DevOps portfolio project.
 
